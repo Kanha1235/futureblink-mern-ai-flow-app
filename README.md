@@ -1,4 +1,4 @@
-# FutureBlink MERN AI Flow App&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![View it live](https://img.shields.io/badge/Live-Demo-blue)](https://pocket-notes-phi-six.vercel.app/)
+# FutureBlink MERN AI Flow App&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![View it live](https://img.shields.io/badge/Live-Demo-blue)](https://futureblink-mern-ai-flow-app.vercel.app/)
 
 I built this project for the **FutureBlink MERN task**.
 It lets a user type a prompt in a React Flow input node, run the flow to get an AI response through a secure Node/Express backend, and save the prompt-response pair in MongoDB.  
